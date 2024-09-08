@@ -1,8 +1,60 @@
 body {
   color: white;
-  background-color: lightblue;
- }
+  background-color: #0463ca;
+}
+
+header {
+  text-align: center;
+  font-family: "Poly", serif;
+}
+
+p {
+  font-family: "Montserrat", sans-serif;
+  color: #f0efef
+}
+
+ul, ol {
+  font-family: "Montserrat", sans-serif;
+  list-style-position: inside;
+  display: table;
+  margin: 0 auto;
+  text-align: left;
+  max-width: 700px;
+}
+
+a {
+  color: #fffcfc;
+  font-family: "Montserrat", sans-serif;
+}
+
+a:hover {
+  color: #f0efef;
+  
+}
+
+h2, h1, h3, .greetings-container {
+  text-align: center;
+  font-family: "Monsterrat", sans-serif;
+}
 
 footer {
   text-align: center;
 }
+
+img {
+  margin: auto;
+  display: block;
+}
+
+figcaption {
+  text-align: center;
+  color:#f0efef;
+} 
+
+.contract-container {
+  display: table;
+  margin: 0 auto;
+  text-align: left;
+  max-width: 600px;
+}
+
