@@ -1,6 +1,6 @@
 body {
-  color: white;
-  background-color: #0463ca;
+  background: #7300ff;
+  background: linear-gradient(90deg, rgba(115, 0, 255, 1) 0%, rgba(211, 83, 237, 1) 100%);
 }
 
 header {
@@ -10,7 +10,8 @@ header {
 
 p {
   font-family: "Montserrat", sans-serif;
-  color: #f0efef
+  color: #f0efef;
+  font-size: 20px;
 }
 
 ul, ol {
@@ -25,6 +26,7 @@ ul, ol {
 a {
   color: #fffcfc;
   font-family: "Montserrat", sans-serif;
+  font-size: 20px;
 }
 
 a:hover {
@@ -39,6 +41,7 @@ h2, h1, h3, .greetings-container {
 
 footer {
   text-align: center;
+  font-size: 18px;
 }
 
 img {
